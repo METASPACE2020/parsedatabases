@@ -1,0 +1,466 @@
+LMPR01010001
+  LIPDMAPS08271317172D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    7.8356    5.4240    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1267    5.8332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4179    5.4240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7090    5.8332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0000    5.4240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7090    6.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6748    5.3709    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9287    5.6747    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5676    5.0488    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9287    6.4210    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3435    5.3388    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5973    5.6426    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2362    5.0166    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5973    6.3889    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  2  0  0  0  0
+  5  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 12  1  0  0  0  0
+  7 12  1  0  0  0  0
+  1  8  1  0  0  0  0
+M  END
+> <PUBCHEM_SUBSTANCE_URL>
+http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=4266316
+
+> <LIPID_MAPS_CMPD_URL>
+http://www.lipidmaps.org/data/LMSDRecord.php?LMID=LMPR01010001
+
+> <LM_ID>
+LMPR01010001
+
+> <COMMON_NAME>
+Dimethylallyl pyrophosphate
+
+> <SYSTEMATIC_NAME>
+3-methylbut-2-enyl pyrophosphate
+
+> <SYNONYMS>
+Dimethylallyl-diphosphate; DMAPP
+
+> <CATEGORY>
+Prenol Lipids [PR]
+
+> <MAIN_CLASS>
+Isoprenoids [PR01]
+
+> <SUB_CLASS>
+C5 isoprenoids (hemiterpenes) [PR0101]
+
+> <EXACT_MASS>
+246.005830
+
+> <FORMULA>
+C5H12O7P2
+
+> <LIPIDBANK_ID>
+IIP0002
+
+> <PUBCHEM_SID>
+4266316
+
+> <PUBCHEM_CID>
+647
+
+> <KEGG_ID>
+C00235
+
+> <HMDBID>
+HMDB01120
+
+> <CHEBI_ID>
+16057
+
+> <INCHI_KEY>
+CBIDRCWHNCKSTO-UHFFFAOYSA-N
+
+> <INCHI>
+InChI=1S/C5H12O7P2/c1-5(2)3-4-11-14(9,10)12-13(6,7)8/h3H,4H2,1-2H3,(H,9,10)(H2,6,7,8)
+
+> <STATUS>
+Active
+
+$$$$
+LMPR01010008
+  LIPDMAPS08271317182D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    7.8356    5.4240    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1267    5.8331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4179    5.4240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7090    5.8331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0000    5.4240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7090    6.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6748    5.3709    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9287    5.6747    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5677    5.0486    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9287    6.4209    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3436    5.3386    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5974    5.6424    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2363    5.0166    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5974    6.3889    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+  4  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 12  1  0  0  0  0
+  7 12  1  0  0  0  0
+  1  8  1  0  0  0  0
+M  END
+> <PUBCHEM_SUBSTANCE_URL>
+http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=24701609
+
+> <LIPID_MAPS_CMPD_URL>
+http://www.lipidmaps.org/data/LMSDRecord.php?LMID=LMPR01010008
+
+> <LM_ID>
+LMPR01010008
+
+> <COMMON_NAME>
+Isopentenyl pyrophosphate
+
+> <SYSTEMATIC_NAME>
+3-methylbut-3-enyl pyrophosphate
+
+> <SYNONYMS>
+Isopentenyl-diphosphate; IPP
+
+> <CATEGORY>
+Prenol Lipids [PR]
+
+> <MAIN_CLASS>
+Isoprenoids [PR01]
+
+> <SUB_CLASS>
+C5 isoprenoids (hemiterpenes) [PR0101]
+
+> <EXACT_MASS>
+246.005830
+
+> <FORMULA>
+C5H12O7P2
+
+> <PUBCHEM_SID>
+24701609
+
+> <PUBCHEM_CID>
+1195
+
+> <KEGG_ID>
+C00129
+
+> <HMDBID>
+HMDB01347
+
+> <CHEBI_ID>
+16584
+
+> <INCHI_KEY>
+NUHSROFQTUXZQQ-UHFFFAOYSA-N
+
+> <INCHI>
+InChI=1S/C5H12O7P2/c1-5(2)3-4-11-14(9,10)12-13(6,7)8/h1,3-4H2,2H3,(H,9,10)(H2,6,7,8)
+
+> <STATUS>
+Active
+
+$$$$
+LMPR01010009
+  LIPDMAPS08271317182D
+
+ 15 14  0  0  0  0  0  0  0  0999 V2000
+    5.2038    5.7902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9376    6.2215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6780    5.8015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4119    6.2328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1522    5.8129    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1930    5.0185    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9310    7.0726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9428    5.8388    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
+    8.9633    6.7727    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9574    5.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6497    5.8184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3712    5.8005    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3630    6.7394    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1753    5.8087    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3777    5.0142    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  1  1  0  0  0  0
+  7  2  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11  8  1  0  0  0  0
+  5  8  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 12  1  0  0  0  0
+ 15 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <PUBCHEM_SUBSTANCE_URL>
+http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=85297114
+
+> <LIPID_MAPS_CMPD_URL>
+http://www.lipidmaps.org/data/LMSDRecord.php?LMID=LMPR01010009
+
+> <LM_ID>
+LMPR01010009
+
+> <COMMON_NAME>
+(2E)-4-hydroxy-3-methylbut-2-en-1-yl trihydrogen diphosphate
+
+> <SYSTEMATIC_NAME>
+(2E)-4-hydroxy-3-methylbut-2-en-1-yl trihydrogen diphosphate
+
+> <SYNONYMS>
+(2E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate;(E)-4-Hydroxy-3-methylbut-2-enyl diphosphate; 1-Hydroxy-2-methyl-2-butenyl 4-diphosphate
+
+> <CATEGORY>
+Prenol Lipids [PR]
+
+> <MAIN_CLASS>
+Isoprenoids [PR01]
+
+> <SUB_CLASS>
+C5 isoprenoids (hemiterpenes) [PR0101]
+
+> <EXACT_MASS>
+262.000745
+
+> <FORMULA>
+C5H12O8P2
+
+> <PUBCHEM_SID>
+85297114
+
+> <PUBCHEM_CID>
+5281976
+
+> <KEGG_ID>
+C11811
+
+> <CHEBI_ID>
+15664
+
+> <INCHI_KEY>
+MDSIZRKJVDMQOQ-GORDUTHDSA-N
+
+> <INCHI>
+InChI=1S/C5H12O8P2/c1-5(4-6)2-3-12-15(10,11)13-14(7,8)9/h2,6H,3-4H2,1H3,(H,10,11)(H2,7,8,9)/b5-2+
+
+> <STATUS>
+Active
+
+$$$$
+LMPR0102010001
+  LIPDMAPS08271317182D
+
+ 19 18  0  0  0  0  0  0  0  0999 V2000
+   10.7231    5.4328    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0077    5.8460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2923    5.4328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5770    5.8460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8616    5.4328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1462    5.8460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4308    5.4328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7154    5.8460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0000    5.4328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5770    6.6720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7154    6.6720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4765    5.3576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7234    5.6642    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3590    5.0323    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7234    6.4174    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1609    5.3251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4077    5.6317    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0432    5.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4077    6.3851    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  2  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 17 16  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 17  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13  1  1  0  0  0  0
+M  END
+> <PUBCHEM_SUBSTANCE_URL>
+http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=74382092
+
+> <LIPID_MAPS_CMPD_URL>
+http://www.lipidmaps.org/data/LMSDRecord.php?LMID=LMPR0102010001
+
+> <LM_ID>
+LMPR0102010001
+
+> <COMMON_NAME>
+Geranyl diphosphate
+
+> <SYSTEMATIC_NAME>
+Geranyl pyrophosphate
+
+> <CATEGORY>
+Prenol Lipids [PR]
+
+> <MAIN_CLASS>
+Isoprenoids [PR01]
+
+> <SUB_CLASS>
+C10 isoprenoids (monoterpenes) [PR0102]
+
+> <CLASS_LEVEL4>
+Acyclic monoterpenoids [PR010201]
+
+> <EXACT_MASS>
+314.068430
+
+> <FORMULA>
+C10H20O7P2
+
+> <PUBCHEM_SID>
+74382092
+
+> <PUBCHEM_CID>
+445995
+
+> <KEGG_ID>
+C00341
+
+> <HMDBID>
+HMDB01285
+
+> <CHEBI_ID>
+17211
+
+> <INCHI_KEY>
+GVVPGTZRZFNKDS-JXMROGBWSA-N
+
+> <INCHI>
+InChI=1S/C10H20O7P2/c1-9(2)5-4-6-10(3)7-8-16-19(14,15)17-18(11,12)13/h5,7H,4,6,8H2,1-3H3,(H,14,15)(H2,11,12,13)/b10-7+
+
+> <STATUS>
+Active
+
+$$$$
+LMPR0102010002
+  LIPDMAPS08271317182D
+
+ 19 18  0  0  0  0  0  0  0  0999 V2000
+    9.3578    6.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6315    6.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9053    6.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1789    6.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4526    6.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7264    6.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0000    6.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6315    7.8297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7264    7.8297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7099    5.3631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9453    5.6744    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5753    5.0328    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9453    6.4390    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4199    5.3300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6552    5.6413    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2852    5.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6552    6.4062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3770    5.8029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9851    5.4045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  2  0  0  0  0
+  7  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 15 14  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 15  1  0  0  0  0
+ 10 15  1  0  0  0  0
+  1 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 11  1  0  0  0  0
+M  END
+> <PUBCHEM_SUBSTANCE_URL>
+http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=74382093
+
+> <LIPID_MAPS_CMPD_URL>
+http://www.lipidmaps.org/data/LMSDRecord.php?LMID=LMPR0102010002
+
+> <LM_ID>
+LMPR0102010002
+
+> <COMMON_NAME>
+Neryl diphosphate
+
+> <SYSTEMATIC_NAME>
+Neryl pyrophosphate
+
+> <CATEGORY>
+Prenol Lipids [PR]
+
+> <MAIN_CLASS>
+Isoprenoids [PR01]
+
+> <SUB_CLASS>
+C10 isoprenoids (monoterpenes) [PR0102]
+
+> <CLASS_LEVEL4>
+Acyclic monoterpenoids [PR010201]
+
+> <EXACT_MASS>
+314.068430
+
+> <FORMULA>
+C10H20O7P2
+
+> <PUBCHEM_SID>
+74382093
+
+> <PUBCHEM_CID>
+5280528
+
+> <CHEBI_ID>
+16172
+
+> <INCHI_KEY>
+GVVPGTZRZFNKDS-YFHOEESVSA-N
+
+> <INCHI>
+InChI=1S/C10H20O7P2/c1-9(2)5-4-6-10(3)7-8-16-19(14,15)17-18(11,12)13/h5,7H,4,6,8H2,1-3H3,(H,14,15)(H2,11,12,13)/b10-7-
+
+> <STATUS>
+Active
+
+$$$$
